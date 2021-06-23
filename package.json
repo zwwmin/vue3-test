@@ -1,0 +1,33 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.6",
+    "axios": "^0.21.1",
+    "element-plus": "^1.0.2-beta.48",
+    "js-cookie": "^2.2.1",
+    "jsbarcode": "^3.11.4",
+    "nprogress": "^0.2.0",
+    "path": "^0.12.7",
+    "postcss-px2rem": "^0.3.0",
+    "vant": "^3.1.0",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.10",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.0.5",
+    "amfe-flexible": "^2.2.1",
+    "postcss-plugin-px2rem": "^0.8.1",
+    "postcss-px2rem-exclude": "0.0.6",
+    "postcss-pxtorem": "^6.0.0",
+    "sass": "^1.35.1",
+    "vite": "^2.3.7",
+    "vite-plugin-style-import": "^1.0.0"
+  }
+}
